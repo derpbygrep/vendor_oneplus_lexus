@@ -122,10 +122,17 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/lexus/proprietary/odm/firmware/ufs/SKhynix-HN8T15DEHKX075.bin:$(TARGET_COPY_OUT_ODM)/firmware/ufs/SKhynix-HN8T15DEHKX075.bin \
     vendor/oneplus/lexus/proprietary/odm/firmware/ufs/move_target_ufs_fw_to_oplusreserve1.sh:$(TARGET_COPY_OUT_ODM)/firmware/ufs/move_target_ufs_fw_to_oplusreserve1.sh \
     vendor/oneplus/lexus/proprietary/odm/firmware/ufs/ufs_version_config.xml:$(TARGET_COPY_OUT_ODM)/firmware/ufs/ufs_version_config.xml \
+    vendor/oneplus/lexus/proprietary/odm/lib64/camera/awb_parameter_lexusfront.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/awb_parameter_lexusfront.bin \
+    vendor/oneplus/lexus/proprietary/odm/lib64/camera/awb_parameter_lexusmain.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/awb_parameter_lexusmain.bin \
+    vendor/oneplus/lexus/proprietary/odm/lib64/camera/awb_parameter_lexuswide.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/awb_parameter_lexuswide.bin \
     vendor/oneplus/lexus/proprietary/odm/lib64/camera/com.qti.sensormodule.lexusfront.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.lexusfront.bin \
     vendor/oneplus/lexus/proprietary/odm/lib64/camera/com.qti.sensormodule.lexusfront_DVT.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.lexusfront_DVT.bin \
     vendor/oneplus/lexus/proprietary/odm/lib64/camera/com.qti.sensormodule.lexusmain.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.lexusmain.bin \
     vendor/oneplus/lexus/proprietary/odm/lib64/camera/com.qti.sensormodule.lexuswide.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.lexuswide.bin \
+    vendor/oneplus/lexus/proprietary/odm/lib64/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.default.bin \
+    vendor/oneplus/lexus/proprietary/odm/lib64/camera/com.qti.tuned.lexusfront.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.lexusfront.bin \
+    vendor/oneplus/lexus/proprietary/odm/lib64/camera/com.qti.tuned.lexusmain.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.lexusmain.bin \
+    vendor/oneplus/lexus/proprietary/odm/lib64/camera/com.qti.tuned.lexuswide.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.lexuswide.bin \
     vendor/oneplus/lexus/proprietary/vendor/etc/card-defs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/card-defs.xml \
     vendor/oneplus/lexus/proprietary/vendor/etc/usecaseKvManager.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usecaseKvManager.xml
 
